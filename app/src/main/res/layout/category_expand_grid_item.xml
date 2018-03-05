@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <RadioButton
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:button="@null"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/catrgory_tag_rb"
+            android:background="@drawable/category_expand_selector"
+            />
+</LinearLayout>
